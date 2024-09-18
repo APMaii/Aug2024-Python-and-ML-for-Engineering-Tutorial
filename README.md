@@ -26,37 +26,37 @@ This repository serves as a **comprehensive guide** for **engineering students**
 
 Below is a description of each uploaded lesson (**LL1 - LL13**):
 
-- **LL1: Introduction**
+- **LL01: Introduction**
   - 🔹 An introduction to Python and its relevance in engineering.
 
-- **LL2: Variables and Data Types**
+- **LL02: Variables and Data Types**
   - 🔹 Overview of variables and data types (`int`, `float`, `str`, etc.).
   - 🔹 Basic introduction to programming.
 
-- **LL3: Built-in Functions**
+- **LL03: Built-in Functions**
   - 🔹 Coverage of built-in Python functions like `print()`, `input()`, `len()`, and `type()`.
   - 🔹 String manipulation with functions like `upper()`, `lower()`, and others.
 
-- **LL4: Lists and Conditional Statements**
+- **LL04: Lists and Conditional Statements**
   - 🔹 Introduction to lists and list methods like `append()`.
   - 🔹 Basic conditionals: `if`, `else`, and `if-else`.
 
-- **LL5: Conditionals and Loops**
+- **LL05: Conditionals and Loops**
   - 🔹 Deeper dive into `if`, `else`, and `elif`.
   - 🔹 Introduction to `for` loops.
 
-- **LL6: Loops (For and While)**
+- **LL06: Loops (For and While)**
   - 🔹 Advanced use cases for `for` loops and introduction to `while` loops.
 
-- **LL7: Functions**
+- **LL07: Functions**
   - 🔹 Introduction to defining functions in Python.
   - 🔹 Function parameters, return values, and scope.
 
-- **LL8: Modules and Importing Functions**
+- **LL08: Modules and Importing Functions**
   - 🔹 Defining functions with `def`.
   - 🔹 Importing modules and using external libraries.
 
-- **LL9: NumPy for Numerical Operations**
+- **LL09: NumPy for Numerical Operations**
   - 🔹 Introduction to **NumPy** for numerical data processing.
   - 🔹 Basics of array creation and manipulation.
 
