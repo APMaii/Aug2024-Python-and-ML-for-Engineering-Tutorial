@@ -1,5 +1,6 @@
 
 # 🐍 **AUG2024: Python and Machine Learning for Engineering - Tutorial**
+> **Note:** Lecturer: Ali Pilehvar Meibody
 
 > **Note:** All comment desciption within code files written in Persian.
 
