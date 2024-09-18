@@ -92,7 +92,13 @@ Install the libraries by running:
 ```bash
 pip install numpy pandas matplotlib scikit-learn
 ```
+---
 
+## 💾 **How to Get Started**
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/APMaii/AUG2024-Python-and-ML-for-Engineering-Tutorial.git
 ---
 
 ## 🤝 **Contributions**
