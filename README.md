@@ -76,6 +76,37 @@ Below is a description of each uploaded lesson (**LL1 - LL13**):
 - **LL13: Introduction to Machine Learning**
   - 🔹 Introduction to **machine learning methodologies**.
   - 🔹 Simple Linear Regression with **Scikit-learn**.
+    
+- **LL14: Linear Regression**
+  - 🔹 Introduction to **Linear Regression**.
+  - 🔹 **Linear Regression** algorithm and cost functions
+    
+- **LL15: Classification**
+  - 🔹 Introductory **Train Test split**.
+  - 🔹 Introduction to **ML classification**
+  - 🔹 Simple Logistic Regression with **Scikit-learn**.
+    
+- **LL16: Traditional Machine Learning Models**
+  - 🔹 Introduction to **K Nearest Neighbor**.
+  - 🔹 Introduction to **Decision Tree**.
+  - 🔹 Introduction to **Random Forest**.
+    
+- **LL17: ML APPROACH**
+  - 🔹 Introduction to **Support Vector Machine**.
+  - 🔹 **Cross Validation**.
+  - 🔹 **Grid search CV**.
+ 
+- **LL_ADVANCED**
+  - 🔹 Important Python Built in functions.
+  - 🔹 Important python keywords.
+  - 🔹 **CLASS and Objects**.
+    
+- **LL_DEEP_LEARNING**
+  - 🔹 Introduction to **Multi Layer perceptron**.
+  - 🔹 Introduction to **Artificial neural networks**.
+  - 🔹 RoadMap to **Deep Learning**.
+ 
+
 ---
 
 ## 🛠️ **Tools & Libraries You'll Use**
