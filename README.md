@@ -4,7 +4,7 @@
 
 > **Note:** All comment desciption within code files written in Persian.
 
-Welcome to the **AUG2024 Python and ML for Engineering Tutorial** repository! This project contains **16 lessons** covering **Python programming**, **data science libraries**, and **introductory machine learning**, specially tailored for **engineering applications**. Lessons 1 to 13 have been uploaded, focusing on Python fundamentals, data analysis with **NumPy**, **Pandas**, **Matplotlib**, and an introduction to **machine learning** using **Scikit-learn**.
+Welcome to the **AUG2024 Python and ML for Engineering Tutorial** repository! This project contains **16 lessons** covering **Python programming**, **data science libraries**, and **introductory machine learning**, specially tailored for **engineering applications**. Lessons 1 to 17 have been uploaded, focusing on Python fundamentals, data analysis with **NumPy**, **Pandas**, **Matplotlib**, and an introduction to **machine learning** using **Scikit-learn**.
 
 ---
 
@@ -25,7 +25,7 @@ This repository serves as a **comprehensive guide** for **engineering students**
 ---
 ## 📖 **Lessons**
 
-Below is a description of each uploaded lesson (**LL1 - LL13**):
+Below is a description of each uploaded lesson (**LL1 - LL17**) and (**LL_ADVANCED** & **LL_DEEP_LEARNING**:
 
 - **LL01: Introduction**
   - 🔹 An introduction to Python and its relevance in engineering.
