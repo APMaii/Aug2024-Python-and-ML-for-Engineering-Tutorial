@@ -109,14 +109,11 @@ model=MLPClassifier(random_state=42,hidden_layer_sizes=(100,) ,activation='tanh'
 
 #harchi bsihtar abshe , bsihatr tool mikshe , amja momkene javab bde ,
 #my params = {'hidden_layer_sizes' : [ (10,), (20,),(100,),(10,10),(20,20),(100,100)]}
-
-
 #khoroji haye har neuron ro contorl mikone relu
 #tanh
 #activation{‘identity’, ‘logistic’, ‘tanh’, ‘relu’}, default=’relu’
 #solver{‘lbfgs’, ‘sgd’, ‘adam’}, default=’adam’
 #dar myparams
-
 
 #step 4---> shoma gridsearchcv (model, myparams, score ,.....,n_jobs=-1)  gs.fit(x,y)
 
@@ -163,8 +160,6 @@ model=MLPClassifier(random_state=42) #default
 myparams={ 'hidden_layer_sizes' : [(100,), (200,),(10,10),(20,20),(10,10,10)],
           'activation':['relu','tanh','logistic','identity'],
           'solver':['adam','sgd','lbfgs']}
-
-
 
 
 #'alpha'
@@ -214,8 +209,6 @@ base--> ANN (MLP)
 '''
 
 
-
-
 '''
 ketabkhoenye pishrafte tar--_>
 
@@ -226,7 +219,4 @@ Tensorflow [XXXXXX]
 pytorch
 
 '''
-
-
-
 
